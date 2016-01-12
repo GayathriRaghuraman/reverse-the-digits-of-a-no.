@@ -13,5 +13,5 @@ void main()
 {
 int numo;
 scanf("%d",&numo);
-printf(reverse(numo);
+printf("%d",reverse(numo);
 }
